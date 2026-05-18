@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Output Files
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.xlsx
+
+# Model Files
+*.pkl
+*.joblib
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
