@@ -1,0 +1,10 @@
+Loan Prediction Results
+
+Accuracy Score: 0.8617886178861789
+
+Selected Features:
+- num__CoapplicantIncome
+- num__Credit_History
+- cat__Education_Not Graduate
+- cat__Property_Area_Rural
+- cat__Property_Area_Semiurban
