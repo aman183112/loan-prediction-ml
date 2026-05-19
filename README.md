@@ -1,4 +1,4 @@
-# Loan Prediction using Multivariate Logistic Regression with SHAP Explainability
+# Loan Prediction 
 
 ## 📌 Project Overview
 
